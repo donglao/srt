@@ -1,6 +1,8 @@
-# SRT: Stochastic Resonance transformers
+# SRT: Stochastic Resonance Transformers
 
-## Visualization
+ICML 2024
+
+## Visualization Demo
 
 visualization is provided in `visualization.ipynb`. You can change the `pretrain=mae` to get visualization for different model.
 
